@@ -3,7 +3,7 @@
  */
 public class BeanA {
 
-    private int i;
+    private int i,y;
 
     public int getI() {
         return i;
