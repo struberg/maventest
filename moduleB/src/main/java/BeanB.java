@@ -14,4 +14,8 @@ public class BeanB {
     public void setJ(int j) {
         this.j = j;
     }
+
+    public int getAi() {
+        return a.getI();
+    }
 }
